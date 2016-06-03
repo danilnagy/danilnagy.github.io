@@ -1,17 +1,17 @@
 # Site settings
-title: My Territory
-index_title: Shikher Verma # same as title in index.html file, so that custom description can be set in page.html layout.
-blog_title: My Territory
+title: Portfolio
+index_title: Danil Nagy
+blog_title: Portfolio
 header-img: img/home-bg.jpg
-email: root@shikherverma.com
-copyright_name: ShikherVerma
-description: "Online Territory of Shikher Verma"
+email: danilnagy@gmail.com
+copyright_name: DanilNagy
+description: "Online Portfolio of Danil Nagy"
 baseurl: "" #base url is for when the site is not at the root but at some subdirectory.
-url: http://shikherverma.com #only used in disque comments for now
-disqus_url: shikherverma.com # disque comments are broken if you send http:// along with url
-github_username:  shikherverma
-facebook_username:  shikherverma1
-email_username:  root@shikherverma.com
+url: http://danilnagy.com #only used in disque comments for now
+disqus_url: danilnagy # disque comments are broken if you send http:// along with url
+github_username:  danilnagy
+facebook_username:  danilnagy
+email_username:  danilnagy@gmail.com
 collections:
   - portfolio
 
