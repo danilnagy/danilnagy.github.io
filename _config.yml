@@ -1,10 +1,10 @@
 # Site settings
-title: Portfolio
+title: Danil Nagy
 index_title: Danil Nagy
-blog_title: Portfolio
+blog_title: Danil Nagy
 header-img: img/home-bg.jpg
 email: danilnagy@gmail.com
-copyright_name: DanilNagy
+copyright_name: Danil Nagy
 description: "Online Portfolio of Danil Nagy"
 baseurl: "" #base url is for when the site is not at the root but at some subdirectory.
 url: http://danilnagy.com #only used in disque comments for now
