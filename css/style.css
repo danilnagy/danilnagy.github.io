@@ -1,7 +1,7 @@
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
   font-size: 14px;
-  line-height: 1.42857143;
+  line-height: 20px;
   color: #333;
   background-color: #fff;
 }
@@ -4836,14 +4836,14 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   position: relative;
   min-height: 50px;
   margin-bottom: 20px;
-  border: 1px solid transparent;
+  border-bottom: 1px solid transparent;
 }
 
-@media (min-width: 650px) {
+/*@media (min-width: 650px) {
   .navbar {
     border-radius: 4px;
   }
-}
+}*/
 @media (min-width: 650px) {
   .navbar-header {
     float: left;
@@ -7535,8 +7535,8 @@ footer .copyright {
 }
 
 #portfolio .portfolio-item .portfolio-link .caption .caption-content {
-    font-family: 'Lora', 'Times New Roman', serif;
-    font-size: 20px;
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    font-size: 16px;
     color: #888;
     margin: auto;
     text-align: center;
