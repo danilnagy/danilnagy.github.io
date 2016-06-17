@@ -1,27 +1,26 @@
 <!DOCTYPE html>
-<html lang="en">
-<!--
-   __ ___   __  __               __
-  / // (_) / /_/ /  ___ _______ / /
- / _  / / / __/ _ \/ -_) __/ -_)_/ 
-/_//_/_/  \__/_//_/\__/_/  \__(_)  
+<html>
 
-  _      ____        __                                              __     ___ 
- | | /| / / /  ___ _/ /_  ___ ________   __ _____  __ __  __ _____  / /____/__ \
- | |/ |/ / _ \/ _ `/ __/ / _ `/ __/ -_) / // / _ \/ // / / // / _ \/ __/ _ \/__/
- |__/|__/_//_/\_,_/\__/  \_,_/_/  \__/  \_, /\___/\_,_/  \_,_/ .__/\__/\___(_)  
-                                       /___/                /_/                 
--->
-{% include head.html %}
+  {% include head.html %}
 
-<body>
+  <body>
+
+    <!-- {% include header.html %} -->
 
     {% include nav.html %}
+<div class="container">
 
-    {{ content }}
+    <!-- <div class="page-content"> -->
+      <!-- <div class="wrapper"> -->
+        {{ content }}
+      <!-- </div> -->
+    </div>
+
+    
+<hr>
 
     {% include footer.html %}
 
-</body>
-{% include google_analytics.html %}
+  </body>
+
 </html>

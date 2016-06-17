@@ -1,33 +1,24 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
 # Site settings
 title: Danil Nagy
-index_title: Danil Nagy
-blog_title: Danil Nagy
-header-img: img/home-bg.jpg
-email: danilnagy@gmail.com
-copyright_name: Danil Nagy
-description: "Online Portfolio of Danil Nagy"
-baseurl: "" #base url is for when the site is not at the root but at some subdirectory.
-url: http://danilnagy.com #only used in disque comments for now
-disqus_url: danilnagy # disque comments are broken if you send http:// along with url
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+instagram_username: danilnagy
+youtube_username: danilnagy
+twitter_username: danilnagy
 github_username:  danilnagy
-facebook_username:  danilnagy
-email_username:  danilnagy@gmail.com
-collections:
-  - portfolio
-
-# used to estimate reading time
-wpm: 150
+email_username: danilnagy@gmail.com
 
 # Build settings
 markdown: kramdown
-highlighter: rouge
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-port: 8888
-permalink: /blog/:title
-
-# jekyll-paginate
-paginate: 5
-paginate_path: blog/page:num
-
-# gem dependencies
-gems: [jekyll-paginate, jekyll-feed]
