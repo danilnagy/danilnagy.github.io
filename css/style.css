@@ -195,6 +195,11 @@ hr {
           box-sizing: content-box;
 }
 
+.text-block {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
 
 hr {
   margin-top: 20px;
@@ -824,6 +829,7 @@ abbr[title] {
 b,
 strong {
   font-weight: bold;
+  margin-top: 15px;
 }
 dfn {
   font-style: italic;
