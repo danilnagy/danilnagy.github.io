@@ -73,7 +73,7 @@ Developed an original syllabus for teaching descriptive to complex curve geometr
 
 Full-scope architectural design of a single family home including Schematic Design, Design Development, and Construction Administration.
 
-**Hy-fi - Queens, NY** _- June 2014
+**Hy-fi - Queens, NY** _- June 2014_
 
 - Project management, design, construction administration
 
