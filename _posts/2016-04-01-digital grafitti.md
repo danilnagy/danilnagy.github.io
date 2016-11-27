@@ -8,4 +8,3 @@ images: [title.jpg]
 category: software/hardware
 ---
 
-digital grafitti description
