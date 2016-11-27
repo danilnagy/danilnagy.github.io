@@ -79,7 +79,7 @@ Full-scope architectural design of a single family home including Schematic Desi
 
 ---
 
-#### PUBLICATION, EXHIBITION, CONFERENCE
+#### PUBLICATIONS, EXHIBITIONS, WORKSHOPS, CONFERENCES
 
 **SIGGRAPH - Anaheim, CA** _- July, 2016_
 
@@ -92,6 +92,10 @@ Displayed original interactive installation
 **Design Modeling Symposium - Copenhagen, Denmark** _- October 2015_
 
 Published and presented an original paper
+
+**Farm Think Workshop - Shenzhen, China** _- June 2015_
+
+Led a workshop about utilizing new technologies in Big Data and Machine Learning for measuring the effects of impact investment projects in rural China. 
 
 **Techonomy Bio - Mountain View, CA** _- March 2015_
 
@@ -118,3 +122,18 @@ Featured Project
 **ACADI@NY Conference - New York, NY** _- October 2010_
 
 Presented work on new processes in digital design
+
+---
+
+#### LINKS
+
+- [The Living]
+- [Autodesk Research]
+- [tl;r]
+- [Articulate Design Office]
+
+
+[The Living]: http://www.thelivingnewyork.com/
+[Autodesk Research]: https://www.autodeskresearch.com/groups/living
+[tl;r]: http://the-living.github.io/
+[Articulate Design Office]: http://www.articulatedesignoffice.com/

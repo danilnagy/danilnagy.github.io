@@ -755,6 +755,7 @@ footer .copyright {
 #portfolio .portfolio-item .portfolio-link .caption .caption-content {
     font-family: "Open Sans", Helvetica, Arial, sans-serif;
     font-size: 16px;
+    line-height: 20px;
     color: #888;
     margin: auto;
     text-align: center;
