@@ -1871,6 +1871,7 @@ figure {
   margin: 0;
 }
 img {
+  margin: auto;
   vertical-align: middle;
 }
 /*.img-responsive,
