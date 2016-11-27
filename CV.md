@@ -25,9 +25,9 @@ permalink: /cv/
 
 - Founder and Principle
 
-**The Living, and Autodesk Studio - New York, NY** _- May 2014 - Present_
+**The Living, an Autodesk Studio - New York, NY** _- May 2014 - Present_
 
-- Lead Designer and Sr. Research Scientist
+- Lead Designer and Senior Research Scientist
 
 Management and design of a variety of projects at a range of scales, from software and algorithm design to the design and programming of temporary installations and full-scale permanent buildings.
 
