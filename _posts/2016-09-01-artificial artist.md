@@ -21,4 +21,4 @@ The Artificial Artist is the first robotic artist powered completely by an Artif
 
 <br><br>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/evV-4yOYCvs" frameborder="0" allowfullscreen></iframe>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/evV-4yOYCvs" frameborder="0" allowfullscreen></iframe></p>
