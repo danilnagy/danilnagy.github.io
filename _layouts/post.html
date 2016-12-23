@@ -17,15 +17,15 @@ layout: default
 
 <!-- <h3 class="post-title" itemprop="name headline">{{ page.title }}</h3> -->
 
+{{ content }}
+
+<p></p>
+
+<p></p>
+
 {% for image in page.images %}
 
 <img src="{{ page.image_path | append: image }}" class="img-responsive" alt="">
 <p> </p>
 
 {% endfor %}
-
-<p></p>
-
-<p></p>
-
-{{ content }}

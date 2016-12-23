@@ -7,17 +7,19 @@ title:  Danil Nagy
   <div class="row">
 
     {% for post in site.posts %}
-      <div class="col-sm-4 portfolio-item">
-        <a href="{{ post.url | prepend: site.baseurl }}" class="portfolio-link">
+      {% if post.active == true %}
+        <div class="col-sm-4 portfolio-item">
+          <a href="{{ post.url | prepend: site.baseurl }}" class="portfolio-link">
 
-          <div class="caption" >
-            <div class="caption-content" >
-              {{ post.title }}
+            <div class="caption" >
+              <div class="caption-content" >
+                {{ post.title }}
+              </div>
             </div>
-          </div>
-          <img src="{{ post.image_path | append: post.cover }}" class="img-responsive" alt="">
-        </a>
-      </div>
+            <img src="{{ post.image_path | append: post.cover }}" class="img-responsive" alt="">
+          </a>
+        </div>
+      {% endif %}
     {% endfor %}
 
   </div>

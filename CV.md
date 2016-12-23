@@ -69,9 +69,7 @@ Developed an original syllabus for teaching descriptive to complex curve geometr
 
 **2221 Water Way - Houston, TX** _- July 2015_
 
-- Project management, architectural Design
-
-Full-scope architectural design of a single family home including Schematic Design, Design Development, and Construction Administration.
+- Full-scope architectural design of a single family home including Schematic Design, Design Development, and Construction Administration.
 
 **Hy-fi - Queens, NY** _- June 2014_
 
@@ -81,17 +79,21 @@ Full-scope architectural design of a single family home including Schematic Desi
 
 #### PUBLICATIONS, EXHIBITIONS, WORKSHOPS, CONFERENCES
 
+**X SUMMIT - San Francisco, CA** _- September, 2016_
+
+Displayed an interactive installation project called "The Artificial Artist" and presented it during the keynote sessions
+
 **SIGGRAPH - Anaheim, CA** _- July, 2016_
 
-Presented installation project as part of a multi-displinary team
-
+Presented an installation project called "The Hive" as part of a multi-displinary team from Autodesk and the University of Stuttgart
+ 
 **re:publica TEN conference - Berlin, Germany** _- May, 2016_
 
-Displayed original interactive installation
+Displayed an original interactive installation project called "RobotWall"
 
 **Design Modeling Symposium - Copenhagen, Denmark** _- October 2015_
 
-Published and presented an original paper
+Published and presented an original paper called ""
 
 **Farm Think Workshop - Shenzhen, China** _- June 2015_
 
