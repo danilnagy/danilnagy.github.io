@@ -99,6 +99,10 @@ Published and presented an original paper called ""
 
 Led a workshop about utilizing new technologies in Big Data and Machine Learning for measuring the effects of impact investment projects in rural China. 
 
+**Farm Think Workshop - Shenzhen, China** _- June 2015_
+
+Led a workshop about utilizing new technologies in Big Data and Machine Learning for measuring the effects of impact investment projects in rural China. 
+
 **Techonomy Bio - Mountain View, CA** _- March 2015_
 
 Participated in panel discussion about new bio materials and design
