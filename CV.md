@@ -99,10 +99,6 @@ Published and presented an original paper called ""
 
 Led a workshop about utilizing new technologies in Big Data and Machine Learning for measuring the effects of impact investment projects in rural China. 
 
-**Farm Think Workshop - Shenzhen, China** _- June 2015_
-
-Led a workshop about utilizing new technologies in Big Data and Machine Learning for measuring the effects of impact investment projects in rural China. 
-
 **Techonomy Bio - Mountain View, CA** _- March 2015_
 
 Participated in panel discussion about new bio materials and design
@@ -114,6 +110,10 @@ Keynote presentation about Hy-Fi project
 **Architectural Design (AD)** _- August 2014_
 
 Feature article
+
+**Bi-city Biennale of Urbanism and Architecture - Hong Kong** _- December 2013_
+
+Designed and exhibited original installation based on the work of students in the Data Mining the City class at Columbia University.
 
 **Utopia Forever: Visions of Architecture and Urbanism - Gestalten** _- April 2011_
 
