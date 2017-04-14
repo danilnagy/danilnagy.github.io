@@ -111,7 +111,7 @@ Keynote presentation about Hy-Fi project
 
 Feature article
 
-**Bi-city Biennale of Urbanism and Architecture - Hong Kong** _- December 2013_
+**Bi-city Biennale of Urbanism and Architecture (UABB) - Hong Kong** _- December 2013_
 
 Designed and exhibited original installation based on the work of students in the Data Mining the City class at Columbia University.
 
