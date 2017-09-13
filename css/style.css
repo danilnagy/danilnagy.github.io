@@ -160,6 +160,11 @@ a:focus {
   }
 }
 
+.row {
+  padding-right: 16px; */
+  padding-left: 16px;
+}
+
 .bio {
 /*   padding-right: 15px; */
 /*   padding-left: 15px; */
