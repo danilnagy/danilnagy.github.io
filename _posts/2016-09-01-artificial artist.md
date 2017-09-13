@@ -6,7 +6,7 @@ image_path:	/img/artificial artist/
 cover:  title.jpg
 images: 
 category: design
-active: true
+active: false
 ---
 
 ![the artificial artist](/img/artificial artist/02.jpg)
