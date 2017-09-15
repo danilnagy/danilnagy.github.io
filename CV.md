@@ -53,6 +53,12 @@ Led projects at various scales from product to architectural design, as well as 
 
 Teaching core classes in architectural representation, as well as advanced seminars investigating the application of Big Data, Machine Learning, and Generative Design to urban analysis, planning, and architectural design.
 
+**Pratt Institute, GAUD - Brooklyn, NY** _- Summer 2017 - Present_
+
+- Visiting Adjunct Professor
+
+Teaching core classes in architectural representation as well as design studios focused on generative design and advanced fabrication methods including robotics.
+
 **University of Saint Joseph’s, Department of Architecture - Macau, China** _- September - December 2012_
 
 - Professor of Architectural Geometry
@@ -79,67 +85,70 @@ Developed an original syllabus for teaching descriptive to complex curve geometr
 
 #### PUBLICATIONS, EXHIBITIONS, WORKSHOPS, CONFERENCES
 
+**SIGGRAPH - Los Angeles, CA** _- July, 2017_
+
+- Presented a talk [Nature-based hybrid computational geometry system for optimizing the interior structure of aerospace components](https://www.researchgate.net/publication/318739855_Nature-based_hybrid_computational_geometry_system_for_optimizing_the_interior_structure_of_aerospace_components) describing the generative design process behind the [Bionic Partition](http://danilnagy.com/design/2015/12/01/bionic-partition.html).
+
+**GSAPP Summer Program, Shenzhen, China** _- July, 2017_
+
+- Co-organized a travelling workshop for Columbia architecture and urban planning masters students which explored the use of new technologies of big data and machine learning to understand the Urban Village typology in Shenzhen.
+
+**Moscow Urban Forum, Moscow, Russian Federation** _- June, 2017_
+
+- Co-organized with Sarah Williams of MIT's [Civic Data Design Lab](http://civicdatadesignlab.mit.edu/) a week-long 'experimental data lab' to explore new methods of analysis and visualization of urban data.
+
+**Paradigm Shift, New Zealand** _- May, 2017_
+
+- Keynote speaker at major architectural conference which travelled to 5 cities in New Zealand in 5 days.
+
+**SimAUD - Toronto, Canada** _- May, 2017_
+
+- Presented and published an original paper ["Project Discover: An application of generative design for architectural space planning"](https://www.researchgate.net/publication/317279203_Project_Discover_An_application_of_generative_design_for_architectural_space_planning)
+
 **X SUMMIT - San Francisco, CA** _- September, 2016_
 
-Displayed an interactive installation project called "The Artificial Artist" and presented it during the keynote sessions
+- Displayed an interactive installation project called "The Artificial Artist" and presented it during the keynote sessions
 
 **SIGGRAPH - Anaheim, CA** _- July, 2016_
 
-Presented an installation project called "The Hive" as part of a multi-displinary team from Autodesk and the University of Stuttgart
+- Presented an installation project called "The Hive" as part of a multi-displinary team from Autodesk and the University of Stuttgart
  
 **re:publica TEN conference - Berlin, Germany** _- May, 2016_
 
-Displayed an original interactive installation project called "RobotWall"
+- Displayed an original interactive installation project called "RobotWall"
 
 **Design Modeling Symposium - Copenhagen, Denmark** _- October 2015_
 
-Published and presented an original paper called ""
+- Published and presented an original paper ["Computational Brick Stacking for Constructing Free-Form Structures"](https://www.researchgate.net/publication/302544295_Computational_Brick_Stacking_for_Constructing_Free-Form_Structures)
 
 **Farm Think Workshop - Shenzhen, China** _- June 2015_
 
-Led a workshop about utilizing new technologies in Big Data and Machine Learning for measuring the effects of impact investment projects in rural China. 
+- Led a workshop about utilizing new technologies in Big Data and Machine Learning for measuring the effects of impact investment projects in rural China. 
 
 **Techonomy Bio - Mountain View, CA** _- March 2015_
 
-Participated in panel discussion about new bio materials and design
+- Participated in panel discussion about new bio materials and design
 
 **Biofabricate - New York, NY** _- December 2014_
 
-Keynote presentation about Hy-Fi project
+- Keynote presentation about [Hy-Fi project](http://danilnagy.com/architecture/2014/06/01/hy-fi.html)
 
 **Architectural Design (AD)** _- August 2014_
 
-Feature article
+- Feature article ["Growing Details"](https://www.researchgate.net/publication/264007636_Growing_Details)
 
 **Bi-city Biennale of Urbanism and Architecture (UABB) - Hong Kong** _- December 2013_
 
-Designed and exhibited original installation based on the work of students in the Data Mining the City class at Columbia University.
+- Designed and exhibited original installation based on the work of students in the Data Mining the City class at Columbia University.
 
 **Utopia Forever: Visions of Architecture and Urbanism - Gestalten** _- April 2011_
 
-Featured Project
+- Featured Project "Protocol Architecture"
 
-**MADE UP: Design’s Fictions - Pasadena, CA** _- January 2011_
+**MADE UP: Design’s Fictions - Wind Tunnel Gallery, Art Center College of Design, Pasadena, CA** _- January 2011_
 
-Wind Tunnel Gallery, Art Center College of Design
-
-Featured Project
+- Featured Project "Protocol Architecture"
 
 **ACADI@NY Conference - New York, NY** _- October 2010_
 
-Presented work on new processes in digital design
-
----
-
-#### LINKS
-
-- [The Living]
-- [Autodesk Research]
-- [tl;r]
-- [Articulate Design Office]
-
-
-[The Living]: http://www.thelivingnewyork.com/
-[Autodesk Research]: https://www.autodeskresearch.com/groups/living
-[tl;r]: http://the-living.github.io/
-[Articulate Design Office]: http://www.articulatedesignoffice.com/
+- Presented work on new processes in digital design
