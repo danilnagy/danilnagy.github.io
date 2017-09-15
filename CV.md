@@ -87,7 +87,7 @@ Developed an original syllabus for teaching descriptive to complex curve geometr
 
 **SIGGRAPH - Los Angeles, CA** _- July, 2017_
 
-- Presented a talk [Nature-based hybrid computational geometry system for optimizing the interior structure of aerospace components](https://www.researchgate.net/publication/318739855_Nature-based_hybrid_computational_geometry_system_for_optimizing_the_interior_structure_of_aerospace_components) describing the generative design process behind the [Bionic Partition](http://danilnagy.com/design/2015/12/01/bionic-partition.html).
+- Presented a talk ["Nature-based hybrid computational geometry system for optimizing the interior structure of aerospace components"](https://www.researchgate.net/publication/318739855_Nature-based_hybrid_computational_geometry_system_for_optimizing_the_interior_structure_of_aerospace_components) describing the generative design process behind the [Bionic Partition](http://danilnagy.com/design/2015/12/01/bionic-partition.html).
 
 **GSAPP Summer Program, Shenzhen, China** _- July, 2017_
 
