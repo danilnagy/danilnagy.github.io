@@ -4,7 +4,7 @@ title:  Bionic Partition
 date:   2015-12-01 00:00:00 -0400
 image_path:	/img/bionic partition/
 cover:  title.jpg
-images: [04.png, 05.jpg, 06.jpg, 09.jpg, 10.jpg, 11.jpg, 13.jpg, 01.jpg, 15.ppg]
+images: [04.png, 05.jpg, 06.jpg, 09.jpg, 10.jpg, 11.jpg, 13.jpg, 01.jpg, 15.png]
 category: design
 active: true
 ---
