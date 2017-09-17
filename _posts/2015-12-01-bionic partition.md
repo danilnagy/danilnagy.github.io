@@ -4,12 +4,12 @@ title:  Bionic Partition
 date:   2015-12-01 00:00:00 -0400
 image_path:	/img/bionic partition/
 cover:  title.jpg
-images: [04.png, 05.jpg, 06.jpg, 09.jpg, 10.jpg, 11.jpg, 13.jpg, 01.jpg, 15.png]
+images: [04.png, 05.jpg, 06.jpg, 09.jpg, 10.jpg, 11.jpg, 13.jpg, 01.jpg, 12.jpg, 14.gif]
 category: design
 active: true
 ---
 
-![bionic partition](/img/bionic partition/14.gif)
+![bionic partition](/img/bionic partition/03.jpg)
 
 Client: Airbus<br>
 Concept design (2015)<br>
