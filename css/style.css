@@ -2076,7 +2076,7 @@ h4,
 h5,
 .h5 {
   font-size: 14px;
-  font-weight: 1000;
+  font-weight: bold;
   margin-top: 15px;
   margin-bottom: 10px;
 }
@@ -2094,7 +2094,7 @@ p.title {
   margin-top: 0px;
   margin-left: 0px;
   margin-right: 0px;
-  font-weight: 1000;
+  font-weight: bold;
 }
 
 .lead {
