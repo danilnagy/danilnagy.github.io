@@ -1,7 +1,5 @@
 <!-- Navigation -->
 
-<!-- <div class="container"> -->
-
 <nav class="navbar navbar-default">
     <div class="container">
         <!-- Brand and toggle get grouped for better mobile display -->
@@ -14,32 +12,24 @@
                 <span class="icon-bar"></span>
             </button>
             {% endif %}
-            {% if page.title != site.title %}
-                 <a class="navbar-brand" href="{{ site.baseurl }}/">
-                    <i class="fa fa-long-arrow-left" aria-hidden="true"></i>
-                </a>
-            {% endif %}
-            <!-- <a class="navbar-brand" href="{{ site.baseurl }}/">{{ page.title }}</a> -->
-            <a class="navbar-brand" href="{{ site.baseurl }}/">{{ page.title }}</a>
+            
+            <a class="navbar-brand" href="{{ site.baseurl }}/">
+                {% if page.title != site.title %}
+                    ⟵&nbsp;
+                {% endif %}
+
+            {{ page.title }}</a>
         </div>
 
         {% if page.title == site.title %}
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
-                <!-- <li>
-                    <a href="{{ site.baseurl }}/">Home</a>
-                </li> -->
                 {% for page in site.pages %} {% if page.title %} {% if page.url != '/404.html' %} {% if page.title != site.index_title and page.title != site.title%} {% if page.url contains "/page" or page.url contains "/tags/" or page.url contains "/search" %} {% else %}
                 <li>
                     <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
                 </li>
                 {% endif %} {% endif %} {% endif %} {% endif %} {% endfor %}
-                <!-- <li>
-                    <a href="{{ root_url }}/search/" class="nav-search-link" title="SEARCH">
-                        <span class="fa fa-search nav-search-icon"></span>
-                    </a>
-                </li> -->
             </ul>
         </div>
         {% endif %}
