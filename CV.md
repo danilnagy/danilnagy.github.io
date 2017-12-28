@@ -14,7 +14,7 @@ permalink: /cv/
 		<td colspan="2"><h5>Columbia University, GSAPP</h5></td>
 	</tr>
 	<tr>
-		<td valign="top" style="min-width:150px">
+		<td valign="top" style="min-width:120px">
 			2008 - 2011
 		</td>
 		<td>

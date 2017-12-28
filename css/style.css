@@ -6,8 +6,8 @@ html {
 body {
   margin: 0;
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
-  font-size: 14px;
-  line-height: 20px;
+  font-size: 1.4em;
+  line-height: 1.7;
   color: #333;
   background-color: #fff;
 }
@@ -22,12 +22,16 @@ a:focus {
   text-decoration: underline;
 }
 
+.col-sm-4 {
+  position: relative;
+  min-height: 1px;
+  padding: 4px;
+}
+
 @media (min-width: 650px) {
-  .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12 {
-    float: left;
-  }
   .col-sm-4 {
     width: 33.3%;
+    float: left;
   }
 }
 
@@ -47,18 +51,13 @@ a:focus {
     background-size:cover;
 }
 
-.col-sm-4 {
-  position: relative;
-  min-height: 1px;
-  padding: 4px;
-}
-
 table {
   margin: 16px;
 }
 
 td {
   padding-right: 10px;
+  /*line-height: 1.6;*/
 }
 
 
@@ -77,7 +76,20 @@ td {
   padding-left: 12px;
 }
 
-.bio {
+p {
+  margin: 16px;
+  /*line-height: 1.6;*/
+}
+
+p.title {
+  margin-bottom: 5px;
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  font-weight: bold;
+}
+
+div.bio {
   padding-bottom: 15px;
 }
 
@@ -95,16 +107,15 @@ td {
 
 hr {
   height: 0;
-  -webkit-box-sizing: content-box;
-     -moz-box-sizing: content-box;
-          box-sizing: content-box;
-}
 
-hr {
   margin-top: 20px;
   margin-bottom: 20px;
   border: 0;
   border-top: 1px solid #eee;
+
+  -webkit-box-sizing: content-box;
+     -moz-box-sizing: content-box;
+          box-sizing: content-box;
 }
 
 .navbar-brand {
@@ -462,18 +473,6 @@ h6,
 .h6 {
   font-size: 14px;
   margin-bottom: 10px;
-}
-
-p {
-  margin: 16px;
-}
-
-p.title {
-  margin-bottom: 5px;
-  margin-top: 0px;
-  margin-left: 0px;
-  margin-right: 0px;
-  font-weight: bold;
 }
 
 .lead {

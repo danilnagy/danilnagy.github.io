@@ -20,6 +20,20 @@ Developed in collaboration with Airbus, Autodesk, and APWorks, the Bionic Pariti
 
 ---
 
+![bionic partition](/img/bionic partition/07.png)
+
+Design space model with input parameters and output metrics
+
+![bionic partition](/img/bionic partition/10.png)
+
+Results of optimization showing high-performing designs
+
+![bionic partition](/img/bionic partition/15.png)
+
+Final design component breakdown (left) and manufactured prototype (right)
+
+---
+
 Press:
 
 - 12/01/15 - [WIRED](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=7&cad=rja&uact=8&ved=0ahUKEwjy3ruM1c_QAhXH1CYKHfPJCF8QFgg5MAY&url=https%3A%2F%2Fwww.wired.com%2F2015%2F12%2Fairbuss-newest-design-is-based-on-slime-mold-and-bones%2F&usg=AFQjCNGyd3C11rrExx-TtvNdNWS1nLjORA&sig2=EOZkZbrBiRqJxME1FLnUXw&bvm=bv.139782543,d.eWE) - Airbus' Newest Design Is Based on Bones and Slime Mold
