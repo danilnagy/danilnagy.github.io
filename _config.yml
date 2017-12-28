@@ -16,7 +16,10 @@ instagram_username: danilnagy
 youtube_username: danilnagy
 twitter_username: danilnagy
 github_username:  danilnagy
-# email_username: danilnagy@gmail.com
+medium_username: danilnagy
+email_username: danilnagy@gmail.com
+
+copyright_name: Danil Nagy
 
 # Build settings
 markdown: kramdown

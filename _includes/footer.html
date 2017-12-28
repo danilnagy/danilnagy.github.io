@@ -4,42 +4,52 @@
         <div class="row">
             <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
                 <ul class="list-inline text-center">
+                    {% if site.medium_username %}
+                    <li>
+                        <a href="https://medium.com/@{{ site.medium_username }}" target="_blank_">
+                            <span class="fa-stack fa-lg">
+                                <!-- <i class="fa fa-circle fa-stack-2x"></i> -->
+                                <i class="fa fa-stack-2x fa-medium"></i>
+                            </span>
+                        </a>
+                    </li>
+                    {% endif %}
                     {% if site.instagram_username %}
                     <li>
-                        <a href="https://instagram.com/{{ site.instagram_username }}">
+                        <a href="https://instagram.com/{{ site.instagram_username }}" target="_blank_">
                             <span class="fa-stack fa-lg">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-instagram fa-stack-1x fa-inverse"></i>
+                                <!-- <i class="fa fa-circle fa-stack-2x"></i> -->
+                                <i class="fa fa-stack-2x fa-instagram"></i>
                             </span>
                         </a>
                     </li>
                     {% endif %}
                     {% if site.twitter_username %}
                     <li>
-                        <a href="https://twitter.com/{{ site.twitter_username }}">
+                        <a href="https://twitter.com/{{ site.twitter_username }}" target="_blank_">
                             <span class="fa-stack fa-lg">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                                <!-- <i class="fa fa-circle fa-stack-2x"></i> -->
+                                <i class="fa fa-twitter fa-stack-2x"></i>
                             </span>
                         </a>
                     </li>
                     {% endif %}
                     {% if site.youtube_username %}
                     <li>
-                        <a href="https://www.youtube.com/{{ site.youtube_username }}">
+                        <a href="https://www.youtube.com/{{ site.youtube_username }}" target="_blank_">
                             <span class="fa-stack fa-lg">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-youtube-play fa-stack-1x fa-inverse"></i>
+                                <!-- <i class="fa fa-circle fa-stack-2x"></i> -->
+                                <i class="fa fa-youtube-play fa-stack-2x"></i>
                             </span>
                         </a>
                     </li>
                     {% endif %}
                     {% if site.github_username %}
                     <li>
-                        <a href="https://github.com/{{ site.github_username }}">
+                        <a href="https://github.com/{{ site.github_username }}" target="_blank_">
                             <span class="fa-stack fa-lg">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                                <!-- <i class="fa fa-circle fa-stack-2x"></i> -->
+                                <i class="fa fa-github fa-stack-2x"></i>
                             </span>
                         </a>
                     </li>
@@ -48,15 +58,15 @@
                     <li>
                         <a href="mailto:{{ site.email_username }}">
                             <span class="fa-stack fa-lg">
-                                <i class="fa fa-circle fa-stack-2x"></i>
-                                <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+                                <!-- <i class="fa fa-circle fa-stack-2x"></i> -->
+                                <i class="fa fa-envelope fa-stack-2x"></i>
                             </span>
                         </a>
                     </li>
                     {% endif %}
                 </ul>
                 <ul class="list-inline text-center">
-                    <p class="copyright text-muted">&copy; {{ site.time | date: '%Y' }} <!-- {{ site.copyright_name }} --> </p>
+                    <p class="copyright text-muted">&copy; {{ site.time | date: '%Y' }} {{ site.copyright_name }} </p>
                 </ul>
             </div>
         </div>
