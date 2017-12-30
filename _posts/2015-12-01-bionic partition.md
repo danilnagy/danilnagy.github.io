@@ -27,7 +27,7 @@ The Bionic Partition was unveiled at the Autodesk University annual conference i
 
 ![bionic partition](/img/bionic partition/04.png)
 
-_Fig 1. Rendering of final partition design with cover panel and cabin attendant seat (CAS)_
+_Rendering of final partition design with cover panel and cabin attendant seat (CAS)_
 
 ---
 
@@ -37,27 +37,31 @@ While the partition wall may seem like a relatively simple component, it actuall
 
 ![bionic partition](/img/bionic partition/07.png)
 
-_Fig 2. Diagram of geometry system with 50 inputs, 2 constraints derived from FEA simulation, and two objectives derived from the geometry of the model_
+_Diagram of geometry system with 50 inputs, 2 constraints derived from FEA simulation, and two objectives derived from the geometry of the model_
 
 ![bionic partition](/img/bionic partition/05.jpg)
 
-_Fig 3. Diagram of computational geometry system based on growth of slime mould_
+_Diagram of computational geometry system based on growth of slime mould_
 
 ---
 
 ![bionic partition](/img/bionic partition/10.png)
 
-_Fig 4. All designs explored during the optimization process plotted according to the two objectives. Colour represents the generation in which the design was evaluated, with blue for earlier and red for later designs. Designs with a black outline are part of the Pareto-dominant set of optimal solutions._
+_All designs explored during the optimization process plotted according to the two objectives. Colour represents the generation in which the design was evaluated, with blue for earlier and red for later designs. Designs with a black outline are part of the Pareto-dominant set of optimal solutions._
 
 ---
 
 ![bionic partition](/img/bionic partition/11.jpg)
 
-_Fig 5. Rationalization of geometry and fabrication of final prototype_
+_Rationalization of geometry and fabrication of final prototype_
 
 ![bionic partition](/img/bionic partition/15-1.png)
 
-_Fig 6. Final design component breakdown (left) and manufactured prototype (right)_
+_Final design component breakdown (left) and manufactured prototype (right)_
+
+![bionic partition](/img/bionic partition/13-1.jpg)
+
+_Airbus engineers test-fitting bionic partition into A320 fuselage._
 
 ---
 
