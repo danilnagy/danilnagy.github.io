@@ -11,6 +11,7 @@ images: []
 active: true
 ---
 
+---
 
 ![bionic partition](/img/bionic partition/14.gif)
 
@@ -24,17 +25,39 @@ The Bionic Partition was unveiled at the Autodesk University annual conference i
 
 ---
 
+![bionic partition](/img/bionic partition/04.png)
+
+_Fig 1. Rendering of final partition design with cover panel and cabin attendant seat (CAS)_
+
+---
+
+While the partition wall may seem like a relatively simple component, it actually presents two complex structural challenges. First, the partition must support a fold-down cabin attendant seat (CAS). Unlike the partition, the CAS is not attached to the airplane’s fuselage or the floor, thus the full weight of two flight attendants and the seat itself must be transferred through the partition into the aircraft’s structure. Second, due to new safety regulations, the partition must include a panel called the ‘stretcher flap’ which can be removed to allow a stretcher carrying a sick or injured passenger to be carried around the corner from the seating area to the galley and exit. This results in a big hole in the partition which makes it difficult to route forces from the CAS directly into the aircraft’s fuselage.
+
+---
+
 ![bionic partition](/img/bionic partition/07.png)
 
-Design space model with input parameters and output metrics
+_Fig 2. Diagram of geometry system with 50 inputs, 2 constraints derived from FEA simulation, and two objectives derived from the geometry of the model_
+
+![bionic partition](/img/bionic partition/05.jpg)
+
+_Fig 3. Diagram of computational geometry system based on growth of slime mould_
+
+---
 
 ![bionic partition](/img/bionic partition/10.png)
 
-Results of optimization showing high-performing designs
+_Fig 4. All designs explored during the optimization process plotted according to the two objectives. Colour represents the generation in which the design was evaluated, with blue for earlier and red for later designs. Designs with a black outline are part of the Pareto-dominant set of optimal solutions._
 
-![bionic partition](/img/bionic partition/15.png)
+---
 
-Final design component breakdown (left) and manufactured prototype (right)
+![bionic partition](/img/bionic partition/11.jpg)
+
+_Fig 5. Rationalization of geometry and fabrication of final prototype_
+
+![bionic partition](/img/bionic partition/15-1.png)
+
+_Fig 6. Final design component breakdown (left) and manufactured prototype (right)_
 
 ---
 
