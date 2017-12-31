@@ -150,6 +150,68 @@ permalink: /cv/
 
 	<tr>
 		<td valign="top">
+			Dec, 2017
+		</td>
+		<td>
+			<p class="title">Bi-city Biennale of Urbanism and Architecture (UABB) - 深港城市 \ 建筑双城双年展 - Shenzhen, China</p>
+			Design and installation of original exhibit in collaboration with Columbia GSAPP <a href="https://www.arch.columbia.edu/studio-x" target="_blank_">Studio-X</a> and <a href="https://onearchitecture.nl/" target="_blank_">One Architecture</a>.
+		</td>
+	</tr>
+
+	<tr>
+		<td valign="top">
+			Nov, 2017
+		</td>
+		<td>
+			<p class="title">Technology | Architecture + Design (Taylor & Francis)</p>
+			Published an original paper <a href="http://www.tandfonline.com/doi/full/10.1080/24751448.2017.1354617" target="_blank_">The Buzz Metric: A Graph-based Method for Quantifying Productive Congestion in Generative Space Planning for Architecture</a>.
+		</td>
+	</tr>
+
+	<tr>
+		<td valign="top">
+			Nov, 2017
+		</td>
+		<td>
+			<p class="title">Autodesk University (AU) - Las Vegas, NV</p>
+			Presented a <a href="http://au.autodesk.com/au-online/classes-on-demand/class-catalog/classes/year-2017/dynamo-studio/as124721#chapter=0" target="_blank_">lecture and class session</a> about the design process and technology behind the design of the AU2017 expo layout.
+		</td>
+	</tr>
+
+	<tr>
+		<td valign="top">
+			Nov, 2017
+		</td>
+		<td>
+			<p class="title">ACADIA - MIT, Cambridge, MA</p>
+			Published and presented an original paper <a href="http://papers.cumincad.org/cgi-bin/works/Show?acadia17_436" target="_blank_">"Beyond Heuristics: A Novel Design Space Model for Generative Space Planning in Architecture".</a>
+		</td>
+	</tr>
+
+	<tr>
+		<td valign="top">
+			Sept, 2017
+		</td>
+		<td>
+			<p class="title">Design Modeling Symposium - Versailles, France</p>
+			Published and presented two original papers:<br>
+			<a href="https://www.researchgate.net/publication/319859525_Nature-Based_Hybrid_Computational_Geometry_System_for_Optimizing_Component_Structure" target="_blank_">"Nature-Based Hybrid Computational Geometry System for Optimizing Component Structure".</a><br>
+			<a href="https://www.researchgate.net/publication/319857944_Survey-Based_Simulation_of_User_Satisfaction_for_Generative_Design_in_Architecture" target="_blank_">"Survey-Based Simulation of User Satisfaction for Generative Design in Architecture".</a>
+		</td>
+	</tr>
+
+	<tr>
+		<td valign="top">
+			Aug, 2017
+		</td>
+		<td>
+			<p class="title">Seoul Biennale of Architecture and Urbanism - 서울도시건축비엔날레 - Seoul, South Korea</p>
+			Design and installation of interactive exhibit <i>Twin Mirror</i>.
+		</td>
+	</tr>
+
+	<tr>
+		<td valign="top">
 			July, 2017
 		</td>
 		<td>
