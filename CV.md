@@ -195,8 +195,8 @@ permalink: /cv/
 		<td>
 			<p class="title">Design Modeling Symposium - Versailles, France</p>
 			Published and presented two original papers:<br>
-			<a href="https://www.researchgate.net/publication/319859525_Nature-Based_Hybrid_Computational_Geometry_System_for_Optimizing_Component_Structure" target="_blank_">"Nature-Based Hybrid Computational Geometry System for Optimizing Component Structure".</a><br>
-			<a href="https://www.researchgate.net/publication/319857944_Survey-Based_Simulation_of_User_Satisfaction_for_Generative_Design_in_Architecture" target="_blank_">"Survey-Based Simulation of User Satisfaction for Generative Design in Architecture".</a>
+			- "Nature-Based Hybrid Computational Geometry System for Optimizing Component Structure". [<a href="https://drive.google.com/file/d/1IHZ3-zx1MYbu3tIhLjl3beVf6LEiPXVx/view?usp=sharing" target="_blank_">PDF</a>]<br>
+			- "Survey-Based Simulation of User Satisfaction for Generative Design in Architecture". [<a href="https://drive.google.com/file/d/1g2Ik1FoAzRiq4SWlf_8PhPlukbAK6a-M/view?usp=sharing" target="_blank_">PDF</a>]
 		</td>
 	</tr>
 
@@ -216,7 +216,7 @@ permalink: /cv/
 		</td>
 		<td>
 			<p class="title">SIGGRAPH - Los Angeles, CA</p>
-			Presented a talk <a href="https://www.researchgate.net/publication/318739855_Nature-based_hybrid_computational_geometry_system_for_optimizing_the_interior_structure_of_aerospace_components" target="_blank_">Nature-based hybrid computational geometry system for optimizing the interior structure of aerospace components</a> describing the generative design process behind the <a href="http://danilnagy.com/2015/12/01/bionic-partition.html">Bionic Partition</a>.
+			Presented a talk called <a href="dl.acm.org/citation.cfm?id=3085088" target="_blank_">"Nature-based hybrid computational geometry system for optimizing the interior structure of aerospace components"</a> describing the generative design process behind the <a href="http://danilnagy.com/2015/12/01/bionic-partition.html">Bionic Partition</a>.
 		</td>
 	</tr>
 
@@ -246,7 +246,7 @@ permalink: /cv/
 		</td>
 		<td>
 			<p class="title">Paradigm Shift - New Zealand</p>
-			Keynote speaker at major architectural conference which travelled to 5 cities in New Zealand in 5 days. [<a href="https://youtu.be/EMTYyDQo08g" target="_blank_">Recording</a>].
+			Keynote speaker at major architectural conference which travelled to 5 cities in New Zealand in 5 days. [<a href="https://youtu.be/EMTYyDQo08g" target="_blank_">Recording</a>]
 		</td>
 	</tr>
 
@@ -256,7 +256,7 @@ permalink: /cv/
 		</td>
 		<td>
 			<p class="title">SimAUD - Toronto, Canada</p>
-			Presented and published an original paper "Project Discover: An application of generative design for architectural space planning" [<a href="https://drive.google.com/file/d/1vYUnLUzI6rg3zzpKRy3-SqjiCeRM-Phz/view?usp=sharing" target="_blank_">PDF</a>].
+			Presented and published an original paper "Project Discover: An application of generative design for architectural space planning". [<a href="https://drive.google.com/file/d/1vYUnLUzI6rg3zzpKRy3-SqjiCeRM-Phz/view?usp=sharing" target="_blank_">PDF</a>]
 		</td>
 	</tr>
 
@@ -266,7 +266,7 @@ permalink: /cv/
 		</td>
 		<td>
 			<p class="title">UIST (Symposium on User Interface Software and Technology) - Tokyo, Japan</p>
-			Published an original paper "Crowdsourced Fabrication" [<a href="https://drive.google.com/file/d/1TL8u79vdUD-zdWBsVAP0adc1HztINtCE/view?usp=sharing" target="_blank_">PDF</a>].
+			Published an original paper "Crowdsourced Fabrication". [<a href="https://drive.google.com/file/d/1TL8u79vdUD-zdWBsVAP0adc1HztINtCE/view?usp=sharing" target="_blank_">PDF</a>]
 		</td>
 	</tr>
 
@@ -286,7 +286,7 @@ permalink: /cv/
 		</td>
 		<td>
 			<p class="title">SIGGRAPH - Anaheim, CA</p>
-			Presented a talk called [<a href="dl.acm.org/citation.cfm?id=2927404" target="_blank_">"The hive: a human and robot collaborative building process"</a> describing the design process behind "The Hive", an interactive installation designed by Autodesk Research and the University of Stuttgart.
+			Presented a talk called <a href="dl.acm.org/citation.cfm?id=2927404" target="_blank_">"The Hive: a human and robot collaborative building process"</a> describing an interactive installation designed an inter-disciplinary team from Autodesk Research and the University of Stuttgart.
 		</td>
 	</tr>
 
@@ -308,7 +308,7 @@ permalink: /cv/
 		</td>
 		<td>
 			<p class="title">Design Modeling Symposium - Copenhagen, Denmark</p>
-			Published and presented an original paper "Computational Brick Stacking for Constructing Free-Form Structures" [<a href="https://drive.google.com/file/d/1CgBMxPT3XIC0KJ4QRlcPO4HzicMeaq7H/view?usp=sharing" target="_blank_">PDF</a>].
+			Published and presented an original paper "Computational Brick Stacking for Constructing Free-Form Structures". [<a href="https://drive.google.com/file/d/1CgBMxPT3XIC0KJ4QRlcPO4HzicMeaq7H/view?usp=sharing" target="_blank_">PDF</a>]
 		</td>
 	</tr>
 
@@ -348,7 +348,7 @@ permalink: /cv/
 		</td>
 		<td>
 			<p class="title">Architectural Design (AD)</p>
-			Feature article "Growing Details" [<a href="https://drive.google.com/file/d/1CZeL-kmHoF93293mO8dlX5DVh6sHuRRi/view?usp=sharing" target="_blank_">PDF</a>].
+			Feature article "Growing Details". [<a href="https://drive.google.com/file/d/1CZeL-kmHoF93293mO8dlX5DVh6sHuRRi/view?usp=sharing" target="_blank_">PDF</a>]
 		</td>
 	</tr>
 
