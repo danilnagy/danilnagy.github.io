@@ -336,7 +336,7 @@ permalink: /cv/
 		</td>
 		<td>
 			<p class="title">Architectural Design (AD)</p>
-			Feature article <a href="https://www.researchgate.net/publication/264007636_Growing_Details" target="_blank_">"Growing Details"</a>.
+			Feature article "Growing Details" [<a href="https://drive.google.com/file/d/1CZeL-kmHoF93293mO8dlX5DVh6sHuRRi/view?usp=sharing" target="_blank_">PDF</a>].
 		</td>
 	</tr>
 
