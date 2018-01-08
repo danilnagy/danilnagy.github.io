@@ -246,7 +246,7 @@ permalink: /cv/
 		</td>
 		<td>
 			<p class="title">Paradigm Shift - New Zealand</p>
-			Keynote speaker at major architectural conference which travelled to 5 cities in New Zealand in 5 days.
+			Keynote speaker at major architectural conference which travelled to 5 cities in New Zealand in 5 days. [<a href="https://youtu.be/EMTYyDQo08g" target="_blank_">Recording</a>].
 		</td>
 	</tr>
 
@@ -256,7 +256,17 @@ permalink: /cv/
 		</td>
 		<td>
 			<p class="title">SimAUD - Toronto, Canada</p>
-			Presented and published an original paper <a href="https://www.researchgate.net/publication/317279203_Project_Discover_An_application_of_generative_design_for_architectural_space_planning" target="_blank_">"Project Discover: An application of generative design for architectural space planning"</a>
+			Presented and published an original paper "Project Discover: An application of generative design for architectural space planning" [<a href="https://drive.google.com/file/d/1vYUnLUzI6rg3zzpKRy3-SqjiCeRM-Phz/view?usp=sharing" target="_blank_">PDF</a>].
+		</td>
+	</tr>
+
+	<tr>
+		<td valign="top">
+			Oct, 2016
+		</td>
+		<td>
+			<p class="title">UIST (Symposium on User Interface Software and Technology) - Tokyo, Japan</p>
+			Published an original paper "Crowdsourced Fabrication" [<a href="https://drive.google.com/file/d/1TL8u79vdUD-zdWBsVAP0adc1HztINtCE/view?usp=sharing" target="_blank_">PDF</a>].
 		</td>
 	</tr>
 
@@ -276,9 +286,11 @@ permalink: /cv/
 		</td>
 		<td>
 			<p class="title">SIGGRAPH - Anaheim, CA</p>
-			Presented an installation project called "The Hive" as part of a multi-displinary team from Autodesk Research and the University of Stuttgart
+			Presented a talk called [<a href="dl.acm.org/citation.cfm?id=2927404" target="_blank_">"The hive: a human and robot collaborative building process"</a> describing the design process behind "The Hive", an interactive installation designed by Autodesk Research and the University of Stuttgart.
 		</td>
 	</tr>
+
+
 
 	<tr>
 		<td valign="top">
@@ -296,7 +308,7 @@ permalink: /cv/
 		</td>
 		<td>
 			<p class="title">Design Modeling Symposium - Copenhagen, Denmark</p>
-			Published and presented an original paper <a href="https://www.researchgate.net/publication/302544295_Computational_Brick_Stacking_for_Constructing_Free-Form_Structures" target="_blank_">"Computational Brick Stacking for Constructing Free-Form Structures"</a>
+			Published and presented an original paper "Computational Brick Stacking for Constructing Free-Form Structures" [<a href="https://drive.google.com/file/d/1CgBMxPT3XIC0KJ4QRlcPO4HzicMeaq7H/view?usp=sharing" target="_blank_">PDF</a>].
 		</td>
 	</tr>
 
