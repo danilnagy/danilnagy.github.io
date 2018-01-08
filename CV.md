@@ -164,7 +164,7 @@ permalink: /cv/
 		</td>
 		<td>
 			<p class="title">Technology | Architecture + Design (Taylor & Francis)</p>
-			Published an original paper <a href="http://www.tandfonline.com/doi/full/10.1080/24751448.2017.1354617" target="_blank_">The Buzz Metric: A Graph-based Method for Quantifying Productive Congestion in Generative Space Planning for Architecture</a>.
+			Published an original paper "The Buzz Metric: A Graph-based Method for Quantifying Productive Congestion in Generative Space Planning for Architecture". [<a href="https://drive.google.com/open?id=1s0qEqDFsm6nmisfpLyjmlIFrZU1s51bf" target="_blank_">PDF</a>].
 		</td>
 	</tr>
 
@@ -184,7 +184,7 @@ permalink: /cv/
 		</td>
 		<td>
 			<p class="title">ACADIA - MIT, Cambridge, MA</p>
-			Published and presented an original paper <a href="http://papers.cumincad.org/cgi-bin/works/Show?acadia17_436" target="_blank_">"Beyond Heuristics: A Novel Design Space Model for Generative Space Planning in Architecture".</a>
+			Published and presented an original paper "Beyond Heuristics: A Novel Design Space Model for Generative Space Planning in Architecture". [<a href="https://drive.google.com/open?id=1a84m3fWjzDzfEHhxYUAQurXblIX7bqOk" target="_blank_">PDF</a>].
 		</td>
 	</tr>
 
